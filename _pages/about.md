@@ -12,10 +12,11 @@ Hi, my name is Anton. I'm working in the Huawei R&D center in Russia, Moscow. To
 
 I believe that technologies helping humans to write code will take a significant part in software development in the future. I'm interested in the following research topics:
 
-1. Automated Program Refinement
-2. Neural Execution
-3. Low Code / No Code
+1. Automated Program Refinement;
+2. Neural Execution;
+3. Low Code / No Code.
 
+If you also have similar interests or want to collaborate, please contact me.
 
 Publications
 ---
