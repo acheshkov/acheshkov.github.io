@@ -21,3 +21,4 @@ If you also have similar interests or want to collaborate, please contact me.
 Publications
 ---
 1. E. Garmash and A. Cheshkov, "Exploring the Effect of NULL Usage in Source Code," 2021 International Conference on Code Quality (ICCQ), 2021, pp. 1-14, doi: 10.1109/ICCQ51190.2021.9392959.
+2. Elena N Akimova, Alexander Yu Bersenev, AS Cheshkov, Artem A Deikov, Konstantin S Kobylkin, Anton V Konygin, Ilya P Mezentsev, Vladimir E Misilov, "A-Index: Semantic-based Anomaly Index for Source Code", ENASE 2022: 259-266
